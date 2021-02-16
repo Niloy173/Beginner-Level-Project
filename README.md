@@ -24,7 +24,4 @@ Play the simple game in console
  generating n number of different quizzes ( in this program n =2)
  creating n multiple choice question for each quiz in random order ( in this progam n =10)
 
-# A simple Portfolio
 
-Used only Html / CSS
-You can edit this code for your own purpose
